@@ -1,0 +1,2 @@
+# openclaw-genpark-vocalist
+Stop building agents that talk. Build agents that negotiate. `openclaw-genpark-vocalist` uses the GenPark Realtime protocol to autonomously make outbound calls to suppliers and customer service agents, resolving disputes and securing discounts over voice while you sleep.
